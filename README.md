@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
@@ -54,3 +54,4 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 ## Entre em Contato
 Se quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem.
 
+-->
