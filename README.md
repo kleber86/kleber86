@@ -43,7 +43,9 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=white)
-  - ![Static Badge](https://img.shields.io/badge/devops)
+  - ![Devops](https://img.shields.io/badge/-Devops-2496ED?style=flat-square&logo=devops&logoColor=white)
+  - ![Jenkins](https://img.shields.io/badge/-Jenkins-2496ED?style=flat-square&logo=jenkins&logoColor=white)
+  - ![Istio](https://img.shields.io/badge/-Istio-2496ED?style=flat-square&logo=istio&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estatísticas do GitHub
