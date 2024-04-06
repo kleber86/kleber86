@@ -45,7 +45,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kleber86&show_icons=true&theme=radical)](https://github.com/kleber86)
 
 ## Entre em Contato
 Se quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem.
